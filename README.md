@@ -1,4 +1,4 @@
-# Hola, soy Pablo Hoaracio Quispe
+# Hola, soy Pablo Horacio Quispe
 
 Estudiante de la Carrera de Licenciatura en Informatica Educativa.
 
